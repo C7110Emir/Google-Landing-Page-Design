@@ -199,5 +199,16 @@ header {
 }
 
 
+#howsearch {
+    float:left;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: Times New Roman, Times, serif;
+}
 
+
+#privacy {
+    
+}
 

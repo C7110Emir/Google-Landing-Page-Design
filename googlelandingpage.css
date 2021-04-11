@@ -225,3 +225,11 @@ header {
 }
 
 
+#settings {
+    float:right;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: lighter;font-family: Times New Roman, Times, serif;
+}
+
+
